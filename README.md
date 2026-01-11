@@ -1,6 +1,4 @@
-# GSOC2025_Deeplense
-
-This repository contains my submission for **Google Summer of Code (GSoC) 2025**.
+# Gravitational Lens Classification 
 
 ## Repository Structure
 
